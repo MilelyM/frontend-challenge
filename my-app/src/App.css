@@ -1,0 +1,30 @@
+body{
+  background-color:gray;
+  line-height:0;
+}
+.masonry-layout {
+  column-count: 4;
+  column-gap: 0;
+}
+.masonry-layout__panel {
+  break-inside: avoid;
+  /* padding: 5px; */
+}
+.masonry-layout__panel-content {
+  /* padding: 10px; */
+  border-radius: 10px; 
+  margin: 0%;
+  padding: 0%;
+   
+}
+.imglayout{
+
+    height: 100% !important;
+    width: 100% !important; 
+    
+}
+
+.navbar{
+    background-color:#546e7a;
+
+  }
