@@ -32,3 +32,6 @@ La aplicación debe contar con los siguientes elementos/condiciones:
 * Correcto uso de React
 * Orden del código (clean code)
 * Diseño responsive
+
+## Vista y Demo
+![vista](https://user-images.githubusercontent.com/39282714/47796517-4231cb00-dd03-11e8-9f87-b363e696808d.png)
